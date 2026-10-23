@@ -7,13 +7,17 @@
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience"><img src="assets/system/nav-1.svg" height="36" alt="Experience" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects"><img src="assets/system/nav-2.svg" height="36" alt="Case files" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/pipeline"><img src="assets/system/nav-3.svg" height="36" alt="Pipeline" /></a>
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/nav-4.svg" height="36" alt="Doctrine" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/standards"><img src="assets/system/nav-4.svg" height="36" alt="Standards" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/nav-5.svg" height="36" alt="Stack" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/contact"><img src="assets/system/nav-6.svg" height="36" alt="Contact" /></a>
 
 <br/><br/>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=3000&pause=900&color=3451E0&center=true&vCenter=true&width=760&lines=Accurate+lists+drive+real+growth.;ICP+in+%E2%86%92+verified+leads+out.;Waterfall+verified%2C+source+tracked.;Status+200+%E2%89%A0+correct+work.;NO+GUESS+%2F+NO+TRUST+%2F+GREEN+CHECK" alt="Accurate lists drive real growth." /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=3000&pause=900&color=3451E0&center=true&vCenter=true&width=760&lines=Accurate+lists+drive+real+growth.;ICP+in+%E2%86%92+verified+leads+out.;Scrape+%C2%B7+verify+%C2%B7+enrich+%C2%B7+deliver;Every+row+keeps+its+source.;Built+to+be+checked%2C+not+trusted." alt="Accurate lists drive real growth." /></a>
+
+<br/>
+
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/pipeline"><img src="assets/system/motion.svg" width="100%" alt="From ICP to booked meeting: scrape, verify, dedupe, enrich, deliver, campaign" /></a>
 
 </div>
 
@@ -27,7 +31,7 @@
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience/lead-gen-jay"><img src="assets/system/exp-lead-gen-jay.svg" width="100%" alt="Senior Data Engineer at Lead Gen Jay" /></a>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience/tex-llm"><img src="assets/system/exp-tex-llm.svg" width="100%" alt="Builder at T-Ex LLM" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience/tex-llm"><img src="assets/system/exp-tex-llm.svg" width="100%" alt="Creator at T-Ex LLM" /></a>
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience"><img src="assets/system/timeline.svg" width="100%" alt="Career timeline" /></a>
 
@@ -35,13 +39,18 @@
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects"><img src="assets/system/head-2.svg" width="100%" alt="Case files: Each project, told as a short documentary" /></a>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/apollo-orchestrator"><img src="assets/system/case-apollo-orchestrator.svg" width="49%" alt="Case file: Distributed Apollo scraping orchestrator" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/apollo-orchestrator"><img src="assets/system/case-apollo-orchestrator.svg" width="49%" alt="Case file: Distributed scraping orchestrator" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/lead-search"><img src="assets/system/case-lead-search.svg" width="49%" alt="Case file: Lead search dashboard" /></a>
 <br/>
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/infra-fleet"><img src="assets/system/case-infra-fleet.svg" width="49%" alt="Case file: Self-hosted infrastructure fleet" /></a>
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/verification-gated-agents"><img src="assets/system/case-verification-gated-agents.svg" width="49%" alt="Case file: Verification-gated multi-agent system" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/contacts-core"><img src="assets/system/case-contacts-core.svg" width="49%" alt="Case file: Multi-tenant contacts database" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/index-migration"><img src="assets/system/case-index-migration.svg" width="49%" alt="Case file: 27.4M-record migration" /></a>
 <br/>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/infra-fleet"><img src="assets/system/case-infra-fleet.svg" width="49%" alt="Case file: Self-hosted server fleet" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/n8n-platform"><img src="assets/system/case-n8n-platform.svg" width="49%" alt="Case file: Production automation platform" /></a>
+<br/>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/verification-gated-agents"><img src="assets/system/case-verification-gated-agents.svg" width="49%" alt="Case file: AI agents that finish the job" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects/tex-runpack"><img src="assets/system/case-tex-runpack.svg" width="49%" alt="Case file: T-Ex LLM Runpack" /></a>
+<br/>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects"><img src="assets/system/case-cta.svg" width="49%" alt="All case files in the console" /></a>
 
 <br/><br/>
@@ -54,7 +63,7 @@
 
 <br/><br/>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,express,fastapi,postgres,supabase,elasticsearch,docker,linux,ubuntu,bash,nginx,cloudflare,aws,vercel,git,github,githubactions,vscode,kotlin&perline=12&theme=light" alt="Tech stack icons" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,express,fastapi,graphql,postgres,supabase,elasticsearch,docker,linux,ubuntu,bash,powershell,nginx,cloudflare,aws,vercel,git,github,githubactions,kotlin,androidstudio,swift,vscode&perline=14&theme=light" alt="Tech stack icons" /></a>
 
 </div>
 
@@ -64,13 +73,17 @@
 
 | Track | What I actually use |
 |---|---|
-| **AI & Agents** | Claude Agent SDK, Claude Code, Multi-agent orchestration, MCP, Enforcement hooks, Prompt & context engineering, vLLM, Qwen, Retrieval & personalisation, AI-assisted prototyping |
-| **Data** | Python, PostgreSQL, Supabase, Elasticsearch, OpenSearch, ETL / ELT, Scraping at scale, Waterfall verification, Dedup & identity resolution, Schema design, Data-quality auditing |
-| **Automation & APIs** | n8n, REST / RPC API design, Webhooks, Next.js API routes, FastAPI, Express, KrakenD, Authgear, Rate limiting & retries |
-| **GTM Systems** | Apollo.io, ICP design & segmentation, B2B list building, Enrichment, MillionVerifier, Reacher, Deliverability, Smartlead, Instantly, CRM integration, RevOps data modelling |
-| **Infrastructure** | Docker, Docker Compose, Ubuntu, Linux, Coolify, Tailscale, Cloudflare Tunnels, Caddy, Nginx, AWS SES, DNS, UFW, systemd, KVM, Vercel, Server migration |
-| **Languages** | Python, TypeScript, JavaScript, SQL, Bash, Next.js, React, Node.js, Kotlin |
-| **Professional** | Team leadership, Root-cause diagnosis, Client-facing problem solving, Technical documentation & standards, Founding a business, Async remote work with US teams |
+| **Server management** | Server management, Ubuntu fleet operations, Provisioning from one script, Pull-based deploys with rollback, Fleet audits, Disk & capacity management, Monitoring & health checks, Coolify, Docker, Docker Compose |
+| **System administration** | System administration, Linux, Ubuntu, systemd services & timers, Backups tested by restore, PostgreSQL administration, Access control & least privilege, PM2, Windows automation, KVM |
+| **Networking engineering** | Networking engineering, Tailscale, WireGuard, Cloudflare Tunnels, DNS, Caddy, Nginx, Let's Encrypt TLS, UFW firewalls, MikroTik RouterOS, SPF · DKIM · DMARC, Host-to-host migrations |
+| **Automation workflows** | Automation workflows, n8n, n8n queue mode, Custom n8n nodes, Webhooks, Scheduled jobs, GitHub Actions, Google Sheets, Asana, Linear |
+| **Pattern understanding** | Pattern understanding, Root-cause diagnosis, Data-quality auditing, Dedup & identity resolution, Taxonomy normalisation, Intent scoring, ICP analysis, Drift & parity checks |
+| **AI & Agents** | Claude Agent SDK, Claude Code, Multi-agent orchestration, MCP, Prompt & context engineering, Retrieval & vector search, vLLM, Qwen, Chat-ops agents |
+| **Data** | Python, PostgreSQL, Supabase, Elasticsearch, OpenSearch, ClickHouse, ETL / ELT, Scraping at scale, Waterfall verification, Schema design, Warehouse modelling |
+| **APIs & Integrations** | REST / RPC API design, GraphQL, OpenAPI, MCP servers, FastAPI, Express, KrakenD, Authgear, Stripe |
+| **GTM Systems** | Apollo.io, ICP design & segmentation, B2B list building, Enrichment, MillionVerifier, Reacher, Deliverability, Smartlead, Instantly, HubSpot, RevOps data modelling |
+| **Apps & Languages** | Python, TypeScript, JavaScript, SQL, Bash, Next.js, React, Node.js, Kotlin, Android, Swift |
+| **Professional** | Team leadership, Directing AI build agents, Client-facing problem solving, Technical documentation & standards, Founding a business, Async remote work with US teams |
 
 </details>
 
@@ -84,9 +97,9 @@
 
 <br/>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/head-5.svg" width="100%" alt="Doctrine: How I work" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/standards"><img src="assets/system/head-5.svg" width="100%" alt="Standards: What you can hold me to" /></a>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/doctrine.svg" width="100%" alt="Doctrine and kill switches" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/standards"><img src="assets/system/standards.svg" width="100%" alt="Standards" /></a>
 
 </div>
 
