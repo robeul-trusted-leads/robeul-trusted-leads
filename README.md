@@ -11,6 +11,10 @@
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/nav-5.svg" height="36" alt="Stack" /></a>
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/contact"><img src="assets/system/nav-6.svg" height="36" alt="Contact" /></a>
 
+<br/><br/>
+
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/"><img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=20&duration=3000&pause=900&color=3451E0&center=true&vCenter=true&width=760&lines=Accurate+lists+drive+real+growth.;ICP+in+%E2%86%92+verified+leads+out.;Waterfall+verified%2C+source+tracked.;Status+200+%E2%89%A0+correct+work.;NO+GUESS+%2F+NO+TRUST+%2F+GREEN+CHECK" alt="Accurate lists drive real growth." /></a>
+
 </div>
 
 <br/>
@@ -25,7 +29,9 @@
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience/tex-llm"><img src="assets/system/exp-tex-llm.svg" width="100%" alt="Builder at T-Ex LLM" /></a>
 
-<br/>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/experience"><img src="assets/system/timeline.svg" width="100%" alt="Career timeline" /></a>
+
+<br/><br/>
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/projects"><img src="assets/system/head-2.svg" width="100%" alt="Case files: Each project, told as a short documentary" /></a>
 
@@ -40,13 +46,45 @@
 
 <br/><br/>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/pipeline"><img src="assets/system/head-3.svg" width="100%" alt="The pipeline: ICP in, verified leads out" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/head-3.svg" width="100%" alt="Skills: What I actually use" /></a>
+
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/skills.svg" width="100%" alt="Skills by track" /></a>
+
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/tools.svg" width="100%" alt="Tools I run every day" /></a>
+
+<br/><br/>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,nextjs,react,nodejs,express,fastapi,postgres,supabase,elasticsearch,docker,linux,ubuntu,bash,nginx,cloudflare,aws,vercel,git,github,githubactions,vscode,kotlin&perline=12&theme=light" alt="Tech stack icons" /></a>
+
+</div>
+
+<details>
+<summary><b>Every skill, as a table</b></summary>
+<br/>
+
+| Track | What I actually use |
+|---|---|
+| **AI & Agents** | Claude Agent SDK, Claude Code, Multi-agent orchestration, MCP, Enforcement hooks, Prompt & context engineering, vLLM, Qwen, Retrieval & personalisation, AI-assisted prototyping |
+| **Data** | Python, PostgreSQL, Supabase, Elasticsearch, OpenSearch, ETL / ELT, Scraping at scale, Waterfall verification, Dedup & identity resolution, Schema design, Data-quality auditing |
+| **Automation & APIs** | n8n, REST / RPC API design, Webhooks, Next.js API routes, FastAPI, Express, KrakenD, Authgear, Rate limiting & retries |
+| **GTM Systems** | Apollo.io, ICP design & segmentation, B2B list building, Enrichment, MillionVerifier, Reacher, Deliverability, Smartlead, Instantly, CRM integration, RevOps data modelling |
+| **Infrastructure** | Docker, Docker Compose, Ubuntu, Linux, Coolify, Tailscale, Cloudflare Tunnels, Caddy, Nginx, AWS SES, DNS, UFW, systemd, KVM, Vercel, Server migration |
+| **Languages** | Python, TypeScript, JavaScript, SQL, Bash, Next.js, React, Node.js, Kotlin |
+| **Professional** | Team leadership, Root-cause diagnosis, Client-facing problem solving, Technical documentation & standards, Founding a business, Async remote work with US teams |
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/pipeline"><img src="assets/system/head-4.svg" width="100%" alt="The pipeline: ICP in, verified leads out" /></a>
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/pipeline"><img src="assets/system/pipeline.svg" width="100%" alt="The six-stage outbound data pipeline" /></a>
 
 <br/>
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/head-4.svg" width="100%" alt="Doctrine: How I work" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/head-5.svg" width="100%" alt="Doctrine: How I work" /></a>
 
 <a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/doctrine"><img src="assets/system/doctrine.svg" width="100%" alt="Doctrine and kill switches" /></a>
 
@@ -56,22 +94,22 @@
 
 <div align="center">
 
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/head-5.svg" width="100%" alt="Stack: What I actually use" /></a>
-
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/#/stack"><img src="assets/system/stack.svg" width="100%" alt="Tech stack" /></a>
-
-<br/>
-
 <img src="assets/system/head-6.svg" width="100%" alt="Activity: Shipping, in public" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=robeul-trusted-leads&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=38bdf8&icon_color=a78bfa&text_color=8b9ab8&border_color=1e2a44&border_radius=20&show_icons=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=robeul-trusted-leads&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0b1220&icon_color=3451e0&text_color=3d4452&border_color=e7e8ec&border_radius=16&show_icons=true" alt="GitHub stats" />
 
 
-<img src="https://streak-stats.demolab.com?user=robeul-trusted-leads&background=0f172a&border=1e2a44&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=e6ecf8&currStreakNum=e6ecf8&sideNums=e6ecf8&dates=8b9ab8&stroke=1e2a44&border_radius=20" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=robeul-trusted-leads&background=ffffff&border=e7e8ec&ring=3451e0&fire=7a4bf0&currStreakLabel=3451e0&sideLabels=0b1220&currStreakNum=0b1220&sideNums=0b1220&dates=6b7280&stroke=e7e8ec&border_radius=16" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3451e0/robeul-trusted-leads" width="100%" alt="Contribution chart" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robeul-trusted-leads/robeul-trusted-leads/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/robeul-trusted-leads/robeul-trusted-leads/output/github-snake.svg" width="100%" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/robeul-trusted-leads/robeul-trusted-leads/output/github-snake.svg" width="100%" alt="Contribution snake" />
 </picture>
 
 <br/><br/>
@@ -81,9 +119,12 @@
 <a href="mailto:mdrobeulislam1251@gmail.com"><img src="assets/system/contact-0.svg" height="40" alt="Email me" /></a>
 <a href="https://www.linkedin.com/in/mdrobeulislam1251"><img src="assets/system/contact-1.svg" height="40" alt="LinkedIn" /></a>
 <a href="https://github.com/mdrobeulislam1251-ux"><img src="assets/system/contact-2.svg" height="40" alt="GitHub · personal" /></a>
-<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/"><img src="assets/system/contact-3.svg" height="40" alt="Open the console" /></a>
+<a href="https://trustedleads.io"><img src="assets/system/contact-3.svg" height="40" alt="Trusted Leads" /></a>
+<a href="https://leadgenjay.com"><img src="assets/system/contact-4.svg" height="40" alt="Lead Gen Jay" /></a>
+<a href="https://github.com/mdrobeulislam1251-ux/T-Ex-LLM-Runpack"><img src="assets/system/contact-5.svg" height="40" alt="T-Ex LLM" /></a>
+<a href="https://mdrobeulislam1251-ux.github.io/robeul-console/"><img src="assets/system/contact-6.svg" height="40" alt="Open the console" /></a>
 
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=robeul-trusted-leads&style=flat-square&color=0f172a&label=profile+views" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=robeul-trusted-leads&style=flat-square&color=3451e0&label=profile+views" alt="views" />
 
 </div>
